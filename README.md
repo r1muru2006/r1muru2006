@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cuongtaplamcoder (R1muru)
+- 👋 Hi, I’m R1muru (R1MURUN0PR0)
 - 👀 I’m interested in CTFs, Machine Learning and Security.
 - 🌱 I’m currently learning to become an expert in CTFs
 
