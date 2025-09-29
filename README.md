@@ -7,9 +7,12 @@
 
 - 👯 I’m looking to collaborate on [aespaFanClub](https://ctftime.org/team/362537)
 
-- 📝 I regularly write articles on [https://hackmd.io/@r1muru](https://hackmd.io/@r1muru)
+- 📝 I regularly write articles on [hackmd](https://hackmd.io/@r1muru)
 
-- 📫 How to reach me **https://www.facebook.com/chu.cuong.732399/**
+- 📫 How to reach me [Facebook](https://www.facebook.com/chu.cuong.732399/)
+<div id="header" align="center">
+  <img src="https://github.com/user-attachments/assets/0b3e19a8-be50-4e66-beb4-f004f8f8139b"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
