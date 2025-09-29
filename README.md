@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r1muru" alt="r1muru" /></a> </p>
 
-- 👯 I’m looking to collaborate on [aespaFanClub](https://ctftime.org/team/362537)
+- 👯 I’m a member of team [aespaFanClub](https://ctftime.org/team/362537)
 
 - 📝 I regularly write articles on [hackmd](https://hackmd.io/@r1muru)
 
