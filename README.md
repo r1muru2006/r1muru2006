@@ -14,7 +14,7 @@
   <img src="https://github.com/user-attachments/assets/0b3e19a8-be50-4e66-beb4-f004f8f8139b"/>
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me through:</h3>
 <p align="left">
 <a href="https://fb.com/chu.cuong.732399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chu.cuong.732399" height="30" width="40" /></a>
 <a href="https://instagram.com/r1murun0pr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r1murun0pr0" height="30" width="40" /></a>
