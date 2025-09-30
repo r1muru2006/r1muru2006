@@ -5,7 +5,7 @@
 
 - 👯 I’m a member of team [aespaFanClub](https://ctftime.org/team/362537)
 
-- 📝 I regularly write articles on [hackmd](https://hackmd.io/@r1muru2006)
+- 📝 I regularly write articles on [hackmd](https://hackmd.io/@r1muru)
 
 <div id="header" align="center">
   <img src="https://github.com/user-attachments/assets/0b3e19a8-be50-4e66-beb4-f004f8f8139b"/>
@@ -14,7 +14,7 @@
 <h3 align="left">Contact me through:</h3>
 <p align="left">
 <a href="https://fb.com/chu.cuong.732399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chu.cuong.732399" height="30" width="40" /></a>
-<a href="https://instagram.com/r1muru2006n0pr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r1muru2006n0pr0" height="30" width="40" /></a>
+<a href="https://instagram.com/r1murun0pr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r1murun0pr0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
