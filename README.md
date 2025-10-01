@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm r1muru</h1>
 <h3 align="center">A passionate person in Information Security who wants to become an expert</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r1muru2006" alt="r1muru2006" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r1muru2006&theme=monokai" alt="r1muru2006" /></a> </p>
 
 - 👯 I’m a member of team [aespaFanClub](https://ctftime.org/team/362537)
 
