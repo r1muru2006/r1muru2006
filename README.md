@@ -5,7 +5,7 @@
 
 - 👯 I’m a member of team [aespaFanClub](https://ctftime.org/team/362537)
 
-- 📝 I regularly write articles on [hackmd](https://hackmd.io/@r1muru)
+- 📝 I regularly write articles on [this blog](https://r1muru2006.github.io/)
 
 <div id="header" align="center">
   <img src="https://github.com/user-attachments/assets/0b3e19a8-be50-4e66-beb4-f004f8f8139b"/>
