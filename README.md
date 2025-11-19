@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r1muru2006&theme=aura" alt="r1muru2006" /></a> </p>
 
-- 👯 I’m a member of team [aespaFanClub](https://ctftime.org/team/362537)
+- 👯 I’m a member of academic team [aespaFanClub](https://ctftime.org/team/362537) and international team [Hack@Sec](https://ctftime.org/team/135426)
 
 - 📝 I regularly write articles on [this blog](https://r1muru2006.github.io/)
 
