@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://fb.com/chu.cuong.732399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chu.cuong.732399" height="30" width="40" /></a>
 <a href="https://instagram.com/r1murun0pr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r1murun0pr0" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/quang-cuong-chu-46311b325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tvdat20004" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/r1muru2006/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tvdat20004" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
