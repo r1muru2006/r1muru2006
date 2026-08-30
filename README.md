@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm r1muru</h1>
 <h3 align="center"> Information security means either becoming an expert or failing.</h3>
 
-- 👯 I’m a member of academic team [UIT-Wanna.W1n](https://ctftime.org/team/138431) and international team [Hack@Sec](https://ctftime.org/team/135426)
-
 - 📝 I regularly write articles on [this blog](https://r1muru2006.github.io/)
 
 <div id="header" align="center">
