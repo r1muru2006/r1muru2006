@@ -1,4 +1,4 @@
-<h1 align="center">👋, I'm r1muru</h1>
+<h1 align="center">👋 I'm Rimuru</h1>
 <h3 align="center"> This is my aim: -.- </h3>
 
 > 📝 Sometimes I write articles on [this blog](https://r1muru2006.github.io/)
