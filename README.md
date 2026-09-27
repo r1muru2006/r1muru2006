@@ -4,5 +4,5 @@
 > 📝 Sometimes I write articles on [this blog](https://r1muru2006.github.io/)
 
 <div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/0b3e19a8-be50-4e66-beb4-f004f8f8139b"/>
+  <img src="https://github.com/user-attachments/assets/1efee923-6979-4e7f-b2b1-dfe659c2b27a"/>
 </div>
